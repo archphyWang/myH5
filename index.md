@@ -1,4 +1,4 @@
-## Oeasy 高兴 Welcome to GitHub Pages
+## Oeasy 高兴 
 
 You can use the [editor on GitHub](https://github.com/archphyWang/myH5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
